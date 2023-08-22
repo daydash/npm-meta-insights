@@ -1,0 +1,22 @@
+{
+	"name": "meta-insights",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/daydash/npm-meta-insights.git"
+	},
+	"author": "daydash",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/daydash/npm-meta-insights/issues"
+	},
+	"homepage": "https://github.com/daydash/npm-meta-insights#readme",
+	"dependencies": {
+		"socket.io-client": "^4.7.2"
+	}
+}
